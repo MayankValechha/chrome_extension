@@ -19,7 +19,7 @@ Select the folder and You are done.
 ```
 
 ### After Installation, extension looks like this
-![](https://github.com/MayankValechha/chrome_extension/tree/master/extension_img/img1.png)
-![](https://github.com/MayankValechha/chrome_extension/tree/master/extension_img/img1.png)
+![Image 1](https://github.com/MayankValechha/chrome_extension/blob/master/extension_img/img1.png)
+![Image 2](https://github.com/MayankValechha/chrome_extension/blob/master/extension_img/img2.png)
 
 **Thank you!**
