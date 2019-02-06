@@ -1,0 +1,20 @@
+{
+	"name" : "HelloWorld",
+	"description" : "This extension says you hello!",
+	"version" : "1.0",
+	"author" : "Mayank Valechha",
+	"manifest_version" : 2,
+	
+	"browser_action" : {
+		"default_icon" : "icon.png",
+		"default_title" : "Hello there!",
+		"default_popup": "popup.html"
+
+	},
+	
+	"chrome_url_overrides" : {
+		"newtab" : "newpage.html"
+	},
+	
+	"permissions" : ["activeTab"]
+}
